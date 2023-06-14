@@ -12,7 +12,7 @@ const sendMail = async ({ from, to, subject, text, html }) => {
     });
 
     let info = await transporter.sendMail({
-        from: `inShare <${from}>`,
+        from: `FileDrop <${from}>`,
         to: to,
         subject: subject,
         text: text,
