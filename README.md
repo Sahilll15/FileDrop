@@ -24,7 +24,7 @@ Follow these steps to set up and run the File Drop Backend:
 Clone the repository to your local machine:
 https://github.com/Sahilll15/FileDrop.git
 <hr>
-API Endpoints
+API Endpoints<hr>
 The File Drop Backend provides the following API endpoints:
 
 File Upload: POST /api/files
