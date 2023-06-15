@@ -2,14 +2,15 @@ File Drop Backend
 
 
 The File Drop Backend is a powerful and secure server application that complements the File Drop frontend, allowing users to seamlessly upload, download, and manage files in a secure and efficient manner. Built with Node.js and Express.js, this backend provides a reliable foundation for the File Drop application.
+<hr>
 
 Key Features
-<hr>
+
 File Upload: Users can easily upload files of various types and sizes to the server, ensuring secure and efficient storage.
 File Download: Seamless file download functionality allows users to retrieve their files with ease, maintaining data integrity throughout the process.
 <hr>
 File Management:
-<hr>
+
 Users have full control over their uploaded files, including options for deletion and retrieval.
 Prerequisites
 Before setting up the File Drop Backend, ensure the following prerequisites are met:
