@@ -59,7 +59,7 @@ Express.js - https://expressjs.com/
 MongoDB - https://www.mongodb.com/
 <hr>
 
-The frontend is hposted using netlify https://filedroppp.netlify.app/
+The frontend is hosted using netlify https://filedroppp.netlify.app/
 And this is the frontend repo https://github.com/Sahilll15/FileDrop-Client.git
 
 
